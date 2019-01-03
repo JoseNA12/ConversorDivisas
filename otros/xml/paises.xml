@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<info_pais>
+		<iso4217>AED</iso4217>
+		<iso4217numerico>784</iso4217numerico>
+		<moneda>dirham de los Emiratos Árabes Unidos</moneda>
+		<símbolo>د.إ</símbolo>
+		<fracción>fils</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>AFN</iso4217>
+		<iso4217numerico>971</iso4217numerico>
+		<moneda>Afgani afgano</moneda>
+		<símbolo>؋</símbolo>
+		<fracción>pul</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ALL</iso4217>
+		<iso4217numerico>8</iso4217numerico>
+		<moneda>lek albanés</moneda>
+		<símbolo>L</símbolo>
+		<fracción>qindarkë</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>AMD</iso4217>
+		<iso4217numerico>51</iso4217numerico>
+		<moneda>dram armenio</moneda>
+		<símbolo>դր.</símbolo>
+		<fracción>luma</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ANG</iso4217>
+		<iso4217numerico>532</iso4217numerico>
+		<moneda>florín antillano neerlandés</moneda>
+		<símbolo>ƒ</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>AOA</iso4217>
+		<iso4217numerico>973</iso4217numerico>
+		<moneda>kwanza angoleño</moneda>
+		<símbolo>Kz</símbolo>
+		<fracción>cêntimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ARS</iso4217>
+		<iso4217numerico>32</iso4217numerico>
+		<moneda>peso argentino</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>AUD</iso4217>
+		<iso4217numerico>36</iso4217numerico>
+		<moneda>dólar australiano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>AWG</iso4217>
+		<iso4217numerico>533</iso4217numerico>
+		<moneda>florín arubeño</moneda>
+		<símbolo>ƒ</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>AZN</iso4217>
+		<iso4217numerico>944</iso4217numerico>
+		<moneda>manat azerbaiyano</moneda>
+		<símbolo>m</símbolo>
+		<fracción>qəpik</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BAM</iso4217>
+		<iso4217numerico>977</iso4217numerico>
+		<moneda>marco convertible de Bosnia-Herzegovina</moneda>
+		<símbolo>КМ</símbolo>
+		<fracción>fening</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BBD</iso4217>
+		<iso4217numerico>52</iso4217numerico>
+		<moneda>dólar de Barbados</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BDT</iso4217>
+		<iso4217numerico>50</iso4217numerico>
+		<moneda>taka de Bangladesh</moneda>
+		<símbolo>৳</símbolo>
+		<fracción>paisa</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BGN</iso4217>
+		<iso4217numerico>975</iso4217numerico>
+		<moneda>Lev búlgaro</moneda>
+		<símbolo>лв</símbolo>
+		<fracción>stotinka</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BHD</iso4217>
+		<iso4217numerico>48</iso4217numerico>
+		<moneda>dinar bahreiní</moneda>
+		<símbolo>.د.ب</símbolo>
+		<fracción>fils</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BIF</iso4217>
+		<iso4217numerico>108</iso4217numerico>
+		<moneda>franco burundés</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BMD</iso4217>
+		<iso4217numerico>60</iso4217numerico>
+		<moneda>dólar bermudeño</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BND</iso4217>
+		<iso4217numerico>96</iso4217numerico>
+		<moneda>dólar de Brunéi</moneda>
+		<símbolo>$</símbolo>
+		<fracción>sen</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BOB</iso4217>
+		<iso4217numerico>68</iso4217numerico>
+		<moneda>Boliviano</moneda>
+		<símbolo>Bs.</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BRL</iso4217>
+		<iso4217numerico>986</iso4217numerico>
+		<moneda>Real brasileño</moneda>
+		<símbolo>R$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BSD</iso4217>
+		<iso4217numerico>44</iso4217numerico>
+		<moneda>dólar bahameño</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BTN</iso4217>
+		<iso4217numerico>64</iso4217numerico>
+		<moneda>Ngultrum de Bután</moneda>
+		<símbolo>Nu.</símbolo>
+		<fracción>chetrum</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BWP</iso4217>
+		<iso4217numerico>72</iso4217numerico>
+		<moneda>pula de Botsuana</moneda>
+		<símbolo>P</símbolo>
+		<fracción>thebe</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BYR</iso4217>
+		<iso4217numerico>974</iso4217numerico>
+		<moneda>rublo bielorruso</moneda>
+		<símbolo>Br</símbolo>
+		<fracción>kapyeyka</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>BZD</iso4217>
+		<iso4217numerico>84</iso4217numerico>
+		<moneda>dólar de Belice</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CAD</iso4217>
+		<iso4217numerico>124</iso4217numerico>
+		<moneda>dólar canadiense</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CDF</iso4217>
+		<iso4217numerico>976</iso4217numerico>
+		<moneda>franco congoleño</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CHF</iso4217>
+		<iso4217numerico>756</iso4217numerico>
+		<moneda>franco suizo</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>rappen</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CLP</iso4217>
+		<iso4217numerico>152</iso4217numerico>
+		<moneda>peso chileno</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CNY</iso4217>
+		<iso4217numerico>156</iso4217numerico>
+		<moneda>Yuan chino</moneda>
+		<símbolo>¥</símbolo>
+		<fracción>fen</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>COP</iso4217>
+		<iso4217numerico>170</iso4217numerico>
+		<moneda>peso colombiano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CRC</iso4217>
+		<iso4217numerico>188</iso4217numerico>
+		<moneda>colón costarricense</moneda>
+		<símbolo>₡</símbolo>
+		<fracción>cêntimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CUC</iso4217>
+		<iso4217numerico>931</iso4217numerico>
+		<moneda>peso cubano convertible</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CUP</iso4217>
+		<iso4217numerico>192</iso4217numerico>
+		<moneda>peso cubano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CVE</iso4217>
+		<iso4217numerico>132</iso4217numerico>
+		<moneda>Escudo caboverdiano</moneda>
+		<símbolo>Esc or $</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>CZK</iso4217>
+		<iso4217numerico>203</iso4217numerico>
+		<moneda>koruna checa</moneda>
+		<símbolo>Kč</símbolo>
+		<fracción>haléř</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>DJF</iso4217>
+		<iso4217numerico>262</iso4217numerico>
+		<moneda>franco yibutiano</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>DKK</iso4217>
+		<iso4217numerico>208</iso4217numerico>
+		<moneda>corona danesa</moneda>
+		<símbolo>kr</símbolo>
+		<fracción>øre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>DOP</iso4217>
+		<iso4217numerico>214</iso4217numerico>
+		<moneda>peso dominicano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>DZD</iso4217>
+		<iso4217numerico>12</iso4217numerico>
+		<moneda>dinar algerino</moneda>
+		<símbolo>د.ج</símbolo>
+		<fracción>Santeem</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>EGP</iso4217>
+		<iso4217numerico>818</iso4217numerico>
+		<moneda>libra egipcia</moneda>
+		<símbolo>ج.م</símbolo>
+		<fracción>piaster</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ERN</iso4217>
+		<iso4217numerico>232</iso4217numerico>
+		<moneda>nakfa eritreo</moneda>
+		<símbolo>Nfk</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ETB</iso4217>
+		<iso4217numerico>230</iso4217numerico>
+		<moneda>birr etíope</moneda>
+		<símbolo>Br</símbolo>
+		<fracción>santim</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>EUR</iso4217>
+		<iso4217numerico>978</iso4217numerico>
+		<moneda>Euro</moneda>
+		<símbolo>€</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>FJD</iso4217>
+		<iso4217numerico>242</iso4217numerico>
+		<moneda>dólar fiyiano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>FKP</iso4217>
+		<iso4217numerico>238</iso4217numerico>
+		<moneda>libra malvinense</moneda>
+		<símbolo>£</símbolo>
+		<fracción>penny</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GBP</iso4217>
+		<iso4217numerico>826</iso4217numerico>
+		<moneda>libra esterlina</moneda>
+		<símbolo>£</símbolo>
+		<fracción>penny</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GEL</iso4217>
+		<iso4217numerico>981</iso4217numerico>
+		<moneda>lari georgiano</moneda>
+		<símbolo>ლ</símbolo>
+		<fracción>tetri</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GHS</iso4217>
+		<iso4217numerico>936</iso4217numerico>
+		<moneda>cedi ghanés</moneda>
+		<símbolo>₵</símbolo>
+		<fracción>pesewa</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GIP</iso4217>
+		<iso4217numerico>292</iso4217numerico>
+		<moneda>libra de Gibraltar</moneda>
+		<símbolo>£</símbolo>
+		<fracción>penny</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GMD</iso4217>
+		<iso4217numerico>270</iso4217numerico>
+		<moneda>dalasi gambiano</moneda>
+		<símbolo>D</símbolo>
+		<fracción>butut</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GNF</iso4217>
+		<iso4217numerico>324</iso4217numerico>
+		<moneda>franco guineano</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GTQ</iso4217>
+		<iso4217numerico>320</iso4217numerico>
+		<moneda>Quetzal guatemalteco</moneda>
+		<símbolo>Q</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>GYD</iso4217>
+		<iso4217numerico>328</iso4217numerico>
+		<moneda>dólar guyanés</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>HKD</iso4217>
+		<iso4217numerico>344</iso4217numerico>
+		<moneda>dólar de Hong Kong</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>HNL</iso4217>
+		<iso4217numerico>340</iso4217numerico>
+		<moneda>lempira hondureño</moneda>
+		<símbolo>L</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>HRK</iso4217>
+		<iso4217numerico>191</iso4217numerico>
+		<moneda>kuna croata</moneda>
+		<símbolo>kn</símbolo>
+		<fracción>lipa</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>HTG</iso4217>
+		<iso4217numerico>332</iso4217numerico>
+		<moneda>Gourde haitiano</moneda>
+		<símbolo>G</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>HUF</iso4217>
+		<iso4217numerico>348</iso4217numerico>
+		<moneda>forint húngaro</moneda>
+		<símbolo>Ft</símbolo>
+		<fracción>fillér</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>IDR</iso4217>
+		<iso4217numerico>360</iso4217numerico>
+		<moneda>rupiah indonesia</moneda>
+		<símbolo>Rp</símbolo>
+		<fracción>sen</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ILS</iso4217>
+		<iso4217numerico>376</iso4217numerico>
+		<moneda>nuevo shéquel israelí</moneda>
+		<símbolo>₪</símbolo>
+		<fracción>agora</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>INR</iso4217>
+		<iso4217numerico>356</iso4217numerico>
+		<moneda>rupia india</moneda>
+		<símbolo>₹</símbolo>
+		<fracción>paisa</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>IQD</iso4217>
+		<iso4217numerico>368</iso4217numerico>
+		<moneda>dinar iraquí</moneda>
+		<símbolo>ع.د</símbolo>
+		<fracción>fils</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>IRR</iso4217>
+		<iso4217numerico>364</iso4217numerico>
+		<moneda>rial iraní</moneda>
+		<símbolo>﷼</símbolo>
+		<fracción>NULL</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ISK</iso4217>
+		<iso4217numerico>352</iso4217numerico>
+		<moneda>Króna islandesa</moneda>
+		<símbolo>kr</símbolo>
+		<fracción>eyrir</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>JMD</iso4217>
+		<iso4217numerico>388</iso4217numerico>
+		<moneda>dólar jamaicano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>JOD</iso4217>
+		<iso4217numerico>400</iso4217numerico>
+		<moneda>dinar jordano</moneda>
+		<símbolo>د.ا</símbolo>
+		<fracción>piastre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>JPY</iso4217>
+		<iso4217numerico>392</iso4217numerico>
+		<moneda>Yen japonés</moneda>
+		<símbolo>¥</símbolo>
+		<fracción>sen</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KES</iso4217>
+		<iso4217numerico>404</iso4217numerico>
+		<moneda>chelín keniata</moneda>
+		<símbolo>Sh</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KGS</iso4217>
+		<iso4217numerico>417</iso4217numerico>
+		<moneda>Som kirguís</moneda>
+		<símbolo>лв</símbolo>
+		<fracción>tyiyn</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KHR</iso4217>
+		<iso4217numerico>116</iso4217numerico>
+		<moneda>riel camboyano</moneda>
+		<símbolo>៛</símbolo>
+		<fracción>sen</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KMF</iso4217>
+		<iso4217numerico>174</iso4217numerico>
+		<moneda>franco comoriano</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KPW</iso4217>
+		<iso4217numerico>408</iso4217numerico>
+		<moneda>won norcoreano</moneda>
+		<símbolo>₩</símbolo>
+		<fracción>chon</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KRW</iso4217>
+		<iso4217numerico>410</iso4217numerico>
+		<moneda>won surcoreano</moneda>
+		<símbolo>₩</símbolo>
+		<fracción>jeon</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KWD</iso4217>
+		<iso4217numerico>414</iso4217numerico>
+		<moneda>dinar kuwaití</moneda>
+		<símbolo>د.ك</símbolo>
+		<fracción>fils</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KYD</iso4217>
+		<iso4217numerico>136</iso4217numerico>
+		<moneda>dólar caimano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>KZT</iso4217>
+		<iso4217numerico>398</iso4217numerico>
+		<moneda>tenge kazajo</moneda>
+		<símbolo>₸</símbolo>
+		<fracción>tïın</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>LAK</iso4217>
+		<iso4217numerico>418</iso4217numerico>
+		<moneda>Kip lao</moneda>
+		<símbolo>₭</símbolo>
+		<fracción>att</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>LBP</iso4217>
+		<iso4217numerico>422</iso4217numerico>
+		<moneda>libra libanesa</moneda>
+		<símbolo>ل.ل</símbolo>
+		<fracción>piastre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>LKR</iso4217>
+		<iso4217numerico>144</iso4217numerico>
+		<moneda>rupia de Sri Lanka</moneda>
+		<símbolo>Rs</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>LRD</iso4217>
+		<iso4217numerico>430</iso4217numerico>
+		<moneda>dólar liberiano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>LSL</iso4217>
+		<iso4217numerico>426</iso4217numerico>
+		<moneda>loti lesotense</moneda>
+		<símbolo>L</símbolo>
+		<fracción>sente</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>LTL</iso4217>
+		<iso4217numerico>440</iso4217numerico>
+		<moneda>litas lituano</moneda>
+		<símbolo>Lt</símbolo>
+		<fracción>centas</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>LYD</iso4217>
+		<iso4217numerico>434</iso4217numerico>
+		<moneda>dinar libio</moneda>
+		<símbolo>ل.د</símbolo>
+		<fracción>dirham</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MAD</iso4217>
+		<iso4217numerico>504</iso4217numerico>
+		<moneda>dirham marroquí</moneda>
+		<símbolo>د.م.</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MDL</iso4217>
+		<iso4217numerico>498</iso4217numerico>
+		<moneda>leu moldavo</moneda>
+		<símbolo>L</símbolo>
+		<fracción>ban</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MGA</iso4217>
+		<iso4217numerico>969</iso4217numerico>
+		<moneda>ariary malgache</moneda>
+		<símbolo>Ar</símbolo>
+		<fracción>iraimbilanja</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MKD</iso4217>
+		<iso4217numerico>807</iso4217numerico>
+		<moneda>denar macedonio</moneda>
+		<símbolo>ден</símbolo>
+		<fracción>deni</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MMK</iso4217>
+		<iso4217numerico>104</iso4217numerico>
+		<moneda>Kyat birmano</moneda>
+		<símbolo>Ks</símbolo>
+		<fracción>pya</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MNT</iso4217>
+		<iso4217numerico>496</iso4217numerico>
+		<moneda>tughrik mongol</moneda>
+		<símbolo>₮</símbolo>
+		<fracción>möngö</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MOP</iso4217>
+		<iso4217numerico>446</iso4217numerico>
+		<moneda>pataca de Macao</moneda>
+		<símbolo>P</símbolo>
+		<fracción>avo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MRO</iso4217>
+		<iso4217numerico>478</iso4217numerico>
+		<moneda>ouguiya mauritana</moneda>
+		<símbolo>UM</símbolo>
+		<fracción>khoums</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MUR</iso4217>
+		<iso4217numerico>480</iso4217numerico>
+		<moneda>rupia mauricia</moneda>
+		<símbolo>₨</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MVR</iso4217>
+		<iso4217numerico>462</iso4217numerico>
+		<moneda>rufiyaa maldiva</moneda>
+		<símbolo>.ރ</símbolo>
+		<fracción>laari</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MWK</iso4217>
+		<iso4217numerico>454</iso4217numerico>
+		<moneda>kwacha malauí</moneda>
+		<símbolo>MK</símbolo>
+		<fracción>tambala</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MXN</iso4217>
+		<iso4217numerico>484</iso4217numerico>
+		<moneda>peso mexicano</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MYR</iso4217>
+		<iso4217numerico>458</iso4217numerico>
+		<moneda>ringgit malayo</moneda>
+		<símbolo>RM</símbolo>
+		<fracción>sen</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>MZN</iso4217>
+		<iso4217numerico>943</iso4217numerico>
+		<moneda>metical mozambiqueño</moneda>
+		<símbolo>MT</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>NAD</iso4217>
+		<iso4217numerico>516</iso4217numerico>
+		<moneda>dólar namibio</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>NGN</iso4217>
+		<iso4217numerico>566</iso4217numerico>
+		<moneda>naira nigeriana</moneda>
+		<símbolo>₦</símbolo>
+		<fracción>kobo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>NIO</iso4217>
+		<iso4217numerico>558</iso4217numerico>
+		<moneda>córdoba nicaragüense</moneda>
+		<símbolo>C$</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>NOK</iso4217>
+		<iso4217numerico>578</iso4217numerico>
+		<moneda>corona noruega</moneda>
+		<símbolo>kr</símbolo>
+		<fracción>øre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>NPR</iso4217>
+		<iso4217numerico>524</iso4217numerico>
+		<moneda>rupia nepalesa</moneda>
+		<símbolo>₨</símbolo>
+		<fracción>paisa</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>NZD</iso4217>
+		<iso4217numerico>554</iso4217numerico>
+		<moneda>dólar neozelandés</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>OMR</iso4217>
+		<iso4217numerico>512</iso4217numerico>
+		<moneda>rial omaní</moneda>
+		<símbolo>ر.ع.</símbolo>
+		<fracción>Baisa</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>PAB</iso4217>
+		<iso4217numerico>590</iso4217numerico>
+		<moneda>Balboa panameña</moneda>
+		<símbolo>B/.</símbolo>
+		<fracción>centésimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>PEN</iso4217>
+		<iso4217numerico>604</iso4217numerico>
+		<moneda>nuevo sol peruano</moneda>
+		<símbolo>S/.</símbolo>
+		<fracción>cêntimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>PGK</iso4217>
+		<iso4217numerico>598</iso4217numerico>
+		<moneda>Kina de Papúa Nueva Guinea</moneda>
+		<símbolo>K</símbolo>
+		<fracción>toea</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>PHP</iso4217>
+		<iso4217numerico>608</iso4217numerico>
+		<moneda>peso filipino</moneda>
+		<símbolo>₱</símbolo>
+		<fracción>centavo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>PKR</iso4217>
+		<iso4217numerico>586</iso4217numerico>
+		<moneda>rupia pakistaní</moneda>
+		<símbolo>₨</símbolo>
+		<fracción>paisa</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>PLN</iso4217>
+		<iso4217numerico>985</iso4217numerico>
+		<moneda>zloty polaco</moneda>
+		<símbolo>zł</símbolo>
+		<fracción>grosz</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>PYG</iso4217>
+		<iso4217numerico>600</iso4217numerico>
+		<moneda>guaraní paraguayo</moneda>
+		<símbolo>₲</símbolo>
+		<fracción>cêntimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>QAR</iso4217>
+		<iso4217numerico>634</iso4217numerico>
+		<moneda>rial qatarí</moneda>
+		<símbolo>ر.ق</símbolo>
+		<fracción>dirham</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>RON</iso4217>
+		<iso4217numerico>946</iso4217numerico>
+		<moneda>Leu rumano</moneda>
+		<símbolo>L</símbolo>
+		<fracción>ban</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>RSD</iso4217>
+		<iso4217numerico>941</iso4217numerico>
+		<moneda>dinar serbio</moneda>
+		<símbolo>дин.</símbolo>
+		<fracción>para</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>RUB</iso4217>
+		<iso4217numerico>643</iso4217numerico>
+		<moneda>rublo ruso</moneda>
+		<símbolo>руб.</símbolo>
+		<fracción>kopek</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>RWF</iso4217>
+		<iso4217numerico>646</iso4217numerico>
+		<moneda>franco ruandés</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SAR</iso4217>
+		<iso4217numerico>682</iso4217numerico>
+		<moneda>riyal saudí</moneda>
+		<símbolo>ر.س</símbolo>
+		<fracción>halala</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SBD</iso4217>
+		<iso4217numerico>90</iso4217numerico>
+		<moneda>dólar de las Islas Salomón</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SCR</iso4217>
+		<iso4217numerico>690</iso4217numerico>
+		<moneda>rupia de Seychelles</moneda>
+		<símbolo>₨</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SDG</iso4217>
+		<iso4217numerico>938</iso4217numerico>
+		<moneda>dinar sudanés</moneda>
+		<símbolo>£</símbolo>
+		<fracción>piastre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SEK</iso4217>
+		<iso4217numerico>752</iso4217numerico>
+		<moneda>corona sueca</moneda>
+		<símbolo>kr</símbolo>
+		<fracción>öre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SGD</iso4217>
+		<iso4217numerico>702</iso4217numerico>
+		<moneda>dólar de Singapur</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SHP</iso4217>
+		<iso4217numerico>654</iso4217numerico>
+		<moneda>libra de Santa Helena</moneda>
+		<símbolo>£</símbolo>
+		<fracción>penny</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SLL</iso4217>
+		<iso4217numerico>694</iso4217numerico>
+		<moneda>leone de Sierra Leona</moneda>
+		<símbolo>Le</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SOS</iso4217>
+		<iso4217numerico>706</iso4217numerico>
+		<moneda>chelín somalí</moneda>
+		<símbolo>Sh</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SRD</iso4217>
+		<iso4217numerico>968</iso4217numerico>
+		<moneda>dólar surinamés</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SSP</iso4217>
+		<iso4217numerico>728</iso4217numerico>
+		<moneda>libra</moneda>
+		<símbolo>£</símbolo>
+		<fracción>piastre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>STD</iso4217>
+		<iso4217numerico>678</iso4217numerico>
+		<moneda>dobra de Santo Tomé y Príncipe</moneda>
+		<símbolo>Db</símbolo>
+		<fracción>cêntimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SYP</iso4217>
+		<iso4217numerico>760</iso4217numerico>
+		<moneda>libra siria</moneda>
+		<símbolo>ل.س</símbolo>
+		<fracción>piastre</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>SZL</iso4217>
+		<iso4217numerico>748</iso4217numerico>
+		<moneda>lilangeni suazi</moneda>
+		<símbolo>L</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>THB</iso4217>
+		<iso4217numerico>764</iso4217numerico>
+		<moneda>baht tailandés</moneda>
+		<símbolo>฿</símbolo>
+		<fracción>satang</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TJS</iso4217>
+		<iso4217numerico>972</iso4217numerico>
+		<moneda>somoni tayik</moneda>
+		<símbolo>ЅМ</símbolo>
+		<fracción>diram</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TMT</iso4217>
+		<iso4217numerico>934</iso4217numerico>
+		<moneda>manat turcomano</moneda>
+		<símbolo>m</símbolo>
+		<fracción>tennesi</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TND</iso4217>
+		<iso4217numerico>788</iso4217numerico>
+		<moneda>dinar tunecino</moneda>
+		<símbolo>د.ت</símbolo>
+		<fracción>millime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TOP</iso4217>
+		<iso4217numerico>776</iso4217numerico>
+		<moneda>Pa'anga tongano</moneda>
+		<símbolo>T$</símbolo>
+		<fracción>seniti</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TRY</iso4217>
+		<iso4217numerico>949</iso4217numerico>
+		<moneda>Lira turca</moneda>
+		<símbolo>NULL</símbolo>
+		<fracción>kuruş</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TTD</iso4217>
+		<iso4217numerico>780</iso4217numerico>
+		<moneda>dólar de Trinidad y Tobago</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TWD</iso4217>
+		<iso4217numerico>901</iso4217numerico>
+		<moneda>dólar taiwanés</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>TZS</iso4217>
+		<iso4217numerico>834</iso4217numerico>
+		<moneda>chelín tanzano</moneda>
+		<símbolo>Sh</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>UAH</iso4217>
+		<iso4217numerico>980</iso4217numerico>
+		<moneda>grivna ucraniana</moneda>
+		<símbolo>₴</símbolo>
+		<fracción>kopiyka</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>UGX</iso4217>
+		<iso4217numerico>800</iso4217numerico>
+		<moneda>chelín ugandés</moneda>
+		<símbolo>Sh</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>USD</iso4217>
+		<iso4217numerico>840</iso4217numerico>
+		<moneda>dólar estadounidense</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>UYU</iso4217>
+		<iso4217numerico>858</iso4217numerico>
+		<moneda>peso uruguayo</moneda>
+		<símbolo>$</símbolo>
+		<fracción>centésimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>UZS</iso4217>
+		<iso4217numerico>860</iso4217numerico>
+		<moneda>Som uzbeko</moneda>
+		<símbolo>лв</símbolo>
+		<fracción>tiyin</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>VEF</iso4217>
+		<iso4217numerico>937</iso4217numerico>
+		<moneda>Bolívar fuerte venezolano</moneda>
+		<símbolo>Bs F</símbolo>
+		<fracción>cêntimo</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>VND</iso4217>
+		<iso4217numerico>704</iso4217numerico>
+		<moneda>dong vietnamita</moneda>
+		<símbolo>₫</símbolo>
+		<fracción>hào</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>VUV</iso4217>
+		<iso4217numerico>548</iso4217numerico>
+		<moneda>vatu vanuatense</moneda>
+		<símbolo>Vt</símbolo>
+		<fracción>NULL</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>WST</iso4217>
+		<iso4217numerico>882</iso4217numerico>
+		<moneda>tala samoana</moneda>
+		<símbolo>T</símbolo>
+		<fracción>sene</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>XAF</iso4217>
+		<iso4217numerico>950</iso4217numerico>
+		<moneda>franco CFA de África central</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>XCD</iso4217>
+		<iso4217numerico>951</iso4217numerico>
+		<moneda>dólar del Caribe Oriental</moneda>
+		<símbolo>$</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>XOF</iso4217>
+		<iso4217numerico>952</iso4217numerico>
+		<moneda>franco CFA de África Occidental</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>XPF</iso4217>
+		<iso4217numerico>953</iso4217numerico>
+		<moneda>franco CFP</moneda>
+		<símbolo>Fr</símbolo>
+		<fracción>centime</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>YER</iso4217>
+		<iso4217numerico>886</iso4217numerico>
+		<moneda>rial yemení</moneda>
+		<símbolo>﷼</símbolo>
+		<fracción>fils</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ZAR</iso4217>
+		<iso4217numerico>710</iso4217numerico>
+		<moneda>rand sudafricano</moneda>
+		<símbolo>R</símbolo>
+		<fracción>cent</fracción>
+	</info_pais>
+	<info_pais>
+		<iso4217>ZMW</iso4217>
+		<iso4217numerico>967</iso4217numerico>
+		<moneda>kwacha zambiano</moneda>
+		<símbolo>ZK</símbolo>
+		<fracción>ngwee</fracción>
+	</info_pais>
+	

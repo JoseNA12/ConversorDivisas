@@ -1,0 +1,25 @@
+Costa Rica Colón, CRC
+Dólar de los Estados Unidos, USD
+Sucre ecuatoriano, ECS
+Sol peruano, PEN
+Peso argentino, ARS
+Euro, EUR
+Lempira hondureño, HNL
+Dólar de Jamaica, JMD
+Corona noruega, NOK
+Peso colombiano, COP
+Dólar australiano, AUD
+Balboa panameño, PAB
+Peso dominicano, DOP
+Chelín somalí, SOS
+Peso uruguayo, UYU
+Nicaragua Córdoba, NIO
+Peso mexicano, MXN
+Won de Corea del Norte, KPW
+Franco suizo, CHF
+Peso chileno, CLP
+Real brasileño, BRL
+Dólar de Hong Kong, HKD
+Dólar canadiense, CAD
+Dólar de Belice, BZD
+Libra esterlina, GBP

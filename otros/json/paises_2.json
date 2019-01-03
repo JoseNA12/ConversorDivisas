@@ -1,0 +1,1016 @@
+[
+    {
+        "monedas": "A"
+    },
+    {
+        "monedas": "Dólar australiano",
+        " iso ": "AUD ",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Lek albanés",
+        " iso ": "ALL",
+        "símbolo": "L",
+        "decimal": "76",
+        "hex": ""
+    },
+    {
+        "monedas": "Dinar argelino",
+        " iso ": "DZD",
+        "símbolo": "دج",
+        "decimal": "47",
+        "hex": "644"
+    },
+    {
+        "monedas": "Peso argentino",
+        " iso ": "ARS",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Florín arubeño",
+        " iso ": "AWG",
+        "símbolo": "ƒ",
+        "decimal": "146",
+        "hex": "1"
+    },
+    {
+        "monedas": "B"
+    },
+    {
+        "monedas": "Libra esterlina",
+        " iso ": "GBP ",
+        "símbolo": "£",
+        "decimal": "163",
+        "hex": ""
+    },
+    {
+        "monedas": "Dólar de las Bahamas",
+        " iso ": "BSD",
+        "símbolo": "B$",
+        "decimal": "66",
+        "hex": "36"
+    },
+    {
+        "monedas": "Dinar de Bahréin",
+        " iso ": "BHD",
+        "símbolo": ".د.ب",
+        "decimal": "46",
+        "hex": "47"
+    },
+    {
+        "monedas": "Taka de Bangladesh",
+        " iso ": "BDT",
+        "símbolo": "Tk",
+        "decimal": "84",
+        "hex": "107"
+    },
+    {
+        "monedas": "Dólar de Barbados",
+        " iso ": "BBD",
+        "símbolo": "BBD",
+        "decimal": "66",
+        "hex": "66"
+    },
+    {
+        "monedas": "Rublo bielorruso",
+        " iso ": "BYR",
+        "símbolo": "Br",
+        "decimal": "66",
+        "hex": "114"
+    },
+    {
+        "monedas": "Dólar de Belice",
+        " iso ": "BZD",
+        "símbolo": "BZ$",
+        "decimal": "66",
+        "hex": "90"
+    },
+    {
+        "monedas": "Dólar de Bermudas",
+        " iso ": "BMD",
+        "símbolo": "BD$",
+        "decimal": "66",
+        "hex": "68"
+    },
+    {
+        "monedas": "Ngultrum de Bhutan",
+        " iso ": "BTN",
+        "símbolo": "Nu.",
+        "decimal": "78",
+        "hex": "117"
+    },
+    {
+        "monedas": "Boliviano",
+        " iso ": "BOB",
+        "símbolo": "Bs",
+        "decimal": "66",
+        "hex": "115"
+    },
+    {
+        "monedas": "Pula de Botsuana",
+        " iso ": "BWP",
+        "símbolo": "P",
+        "decimal": "80",
+        "hex": ""
+    },
+    {
+        "monedas": "Real brasileño",
+        " iso ": "BRL",
+        "símbolo": "R$",
+        "decimal": "82",
+        "hex": "36"
+    },
+    {
+        "monedas": "Dólar de Brunéi",
+        " iso ": "BND",
+        "símbolo": "B$",
+        "decimal": "66",
+        "hex": "36"
+    },
+    {
+        "monedas": "Lev búlgaro",
+        " iso ": "BGN",
+        "símbolo": "лв",
+        "decimal": "59",
+        "hex": "450"
+    },
+    {
+        "monedas": "Franco burundí",
+        " iso ": "BIF",
+        "símbolo": "FBu",
+        "decimal": "70",
+        "hex": "66"
+    },
+    {
+        "monedas": "C"
+    },
+    {
+        "monedas": "Dólar canadiense",
+        " iso ": "CAD ",
+        "símbolo": "C$",
+        "decimal": "67",
+        "hex": "36"
+    },
+    {
+        "monedas": "Yuan chino",
+        " iso ": "CNY",
+        "símbolo": "¥",
+        "decimal": "165",
+        "hex": ""
+    },
+    {
+        "monedas": "Riel camboyano",
+        " iso ": "KHR",
+        "símbolo": "KHR",
+        "decimal": "75",
+        "hex": "72"
+    },
+    {
+        "monedas": "Escudo caboverdiano",
+        " iso ": "CVE",
+        "símbolo": "Esc",
+        "decimal": "69",
+        "hex": "115"
+    },
+    {
+        "monedas": "Dólar de las Islas Caimán",
+        " iso ": "KYD",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Franco CFA (BCEAO)",
+        " iso ": "XOF",
+        "símbolo": "BCEAO",
+        "decimal": "66",
+        "hex": "67"
+    },
+    {
+        "monedas": "Franco CFA (BEAC)",
+        " iso ": "XAF",
+        "símbolo": "BEAC",
+        "decimal": "66",
+        "hex": "69"
+    },
+    {
+        "monedas": "Peso chileno",
+        " iso ": "CLP",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Peso colombiano",
+        " iso ": "COP",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Franco comorano",
+        " iso ": "KMF",
+        "símbolo": "KMF",
+        "decimal": "75",
+        "hex": "77"
+    },
+    {
+        "monedas": "Colón costarricense",
+        " iso ": "CRC",
+        "símbolo": "₡",
+        "decimal": "161",
+        "hex": "32"
+    },
+    {
+        "monedas": "Kuna croata",
+        " iso ": "HRK",
+        "símbolo": "kn",
+        "decimal": "107",
+        "hex": "110"
+    },
+    {
+        "monedas": "Peso cubano",
+        " iso ": "CUP",
+        "símbolo": "$MN",
+        "decimal": "36",
+        "hex": "77"
+    },
+    {
+        "monedas": "Corona checa",
+        " iso ": "CZK",
+        "símbolo": "Kč ",
+        "decimal": "75",
+        "hex": "99"
+    },
+    {
+        "monedas": "D"
+    },
+    {
+        "monedas": "Corona danesa",
+        " iso ": "DKK ",
+        "símbolo": "kr",
+        "decimal": "107",
+        "hex": "114"
+    },
+    {
+        "monedas": "Franco yibutiano",
+        " iso ": "DJF",
+        "símbolo": "Fdj",
+        "decimal": "70",
+        "hex": "100"
+    },
+    {
+        "monedas": "Peso dominicano",
+        " iso ": "DOP",
+        "símbolo": "RD$",
+        "decimal": "82",
+        "hex": "68"
+    },
+    {
+        "monedas": "E"
+    },
+    {
+        "monedas": "Euro",
+        " iso ": "EUR ",
+        "símbolo": "€",
+        "decimal": "172",
+        "hex": "32"
+    },
+    {
+        "monedas": "Dólar del Caribe Oriental",
+        " iso ": "XCD",
+        "símbolo": "EC$",
+        "decimal": "69",
+        "hex": "67"
+    },
+    {
+        "monedas": "Libra egipcia",
+        " iso ": "EGP",
+        "símbolo": "ج.م",
+        "decimal": "44",
+        "hex": "646"
+    },
+    {
+        "monedas": "El Colon del Salvador",
+        " iso ": "SVC",
+        "símbolo": "₡",
+        "decimal": "161",
+        "hex": "32"
+    },
+    {
+        "monedas": "Corona estonia",
+        " iso ": "EEK",
+        "símbolo": "EEK",
+        "decimal": "69",
+        "hex": "69"
+    },
+    {
+        "monedas": "Birr etíope",
+        " iso ": "ETB",
+        "símbolo": "Br",
+        "decimal": "66",
+        "hex": "114"
+    },
+    {
+        "monedas": "F"
+    },
+    {
+        "monedas": "Libra malvinense",
+        " iso ": "FKP ",
+        "símbolo": "£",
+        "decimal": "163",
+        "hex": ""
+    },
+    {
+        "monedas": "Dólar de Fiji",
+        " iso ": "FJD",
+        "símbolo": "FJ$",
+        "decimal": "70",
+        "hex": "74"
+    },
+    {
+        "monedas": "G"
+    },
+    {
+        "monedas": "Dalasi gambiano",
+        " iso ": "GMD ",
+        "símbolo": "D",
+        "decimal": "68",
+        "hex": ""
+    },
+    {
+        "monedas": "Quetzal de Guatemala",
+        " iso ": "GTQ",
+        "símbolo": "Q",
+        "decimal": "81",
+        "hex": ""
+    },
+    {
+        "monedas": "Franco guineano",
+        " iso ": "GNF",
+        "símbolo": "FG",
+        "decimal": "70",
+        "hex": "71"
+    },
+    {
+        "monedas": "Dólar guyanés",
+        " iso ": "GYD",
+        "símbolo": "GY$",
+        "decimal": "71",
+        "hex": "89"
+    },
+    {
+        "monedas": "Cedi ghanes",
+        " iso ": "GHS",
+        "símbolo": "GHS",
+        "decimal": "71",
+        "hex": "72"
+    },
+    {
+        "monedas": "H"
+    },
+    {
+        "monedas": "Dólar de Hong Kong",
+        " iso ": "HKD ",
+        "símbolo": "HK$",
+        "decimal": "72",
+        "hex": "75"
+    },
+    {
+        "monedas": "Gourde haitiano",
+        " iso ": "HTG",
+        "símbolo": "",
+        "decimal": "",
+        "hex": ""
+    },
+    {
+        "monedas": "Lempira hondureña",
+        " iso ": "HNL",
+        "símbolo": "L",
+        "decimal": "76",
+        "hex": ""
+    },
+    {
+        "monedas": "Florín húngaro",
+        " iso ": "HUF",
+        "símbolo": "Ft",
+        "decimal": "70",
+        "hex": "116"
+    },
+    {
+        "monedas": "I"
+    },
+    {
+        "monedas": "Rupia indonesia",
+        " iso ": "IDR ",
+        "símbolo": "Rp",
+        "decimal": "82",
+        "hex": "112"
+    },
+    {
+        "monedas": "Rupia india",
+        " iso ": "INR",
+        "símbolo": "Rs.",
+        "decimal": "82",
+        "hex": "115"
+    },
+    {
+        "monedas": "Corona islandesa",
+        " iso ": "ISK",
+        "símbolo": "kr",
+        "decimal": "107",
+        "hex": "114"
+    },
+    {
+        "monedas": "Rial iraní",
+        " iso ": "IRR",
+        "símbolo": "",
+        "decimal": "",
+        "hex": ""
+    },
+    {
+        "monedas": "Dinar iraquí",
+        " iso ": "IQD",
+        "símbolo": "ع.د",
+        "decimal": "57",
+        "hex": "646"
+    },
+    {
+        "monedas": "Shekel israelí",
+        " iso ": "ILS",
+        "símbolo": "₪",
+        "decimal": "170",
+        "hex": "32"
+    },
+    {
+        "monedas": "J"
+    },
+    {
+        "monedas": "Yen japonés",
+        " iso ": "JPY ",
+        "símbolo": "¥",
+        "decimal": "165",
+        "hex": ""
+    },
+    {
+        "monedas": "Dinar jordano",
+        " iso ": "JOD",
+        "símbolo": "JOD",
+        "decimal": "74",
+        "hex": "79"
+    },
+    {
+        "monedas": "K"
+    },
+    {
+        "monedas": "Tenge kazako",
+        " iso ": "KZT ",
+        "símbolo": "KZT",
+        "decimal": "75",
+        "hex": "90"
+    },
+    {
+        "monedas": "Chelín keniano",
+        " iso ": "KES",
+        "símbolo": "KSh",
+        "decimal": "75",
+        "hex": "83"
+    },
+    {
+        "monedas": "Won coreano",
+        " iso ": "KRW",
+        "símbolo": "₩",
+        "decimal": "169",
+        "hex": "32"
+    },
+    {
+        "monedas": "Dinar kuwaití",
+        " iso ": "KWD",
+        "símbolo": "د.ك",
+        "decimal": "47",
+        "hex": "646"
+    },
+    {
+        "monedas": "Kirguistán Som",
+        " iso ": "KGS",
+        "símbolo": "KGS",
+        "decimal": "75",
+        "hex": "71"
+    },
+    {
+        "monedas": "M"
+    },
+    {
+        "monedas": "Pataca de Macao",
+        " iso ": "MOP ",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Dinar macedonio",
+        " iso ": "MKD",
+        "símbolo": "MKD",
+        "decimal": "77",
+        "hex": "75"
+    },
+    {
+        "monedas": "Kwacha malawiano",
+        " iso ": "MWK",
+        "símbolo": "MK",
+        "decimal": "77",
+        "hex": "75"
+    },
+    {
+        "monedas": "Ringgit malayo",
+        " iso ": "MYR",
+        "símbolo": "RM",
+        "decimal": "82",
+        "hex": "77"
+    },
+    {
+        "monedas": "Rupia de Maldivas",
+        " iso ": "MVR",
+        "símbolo": "Rf",
+        "decimal": "82",
+        "hex": "102"
+    },
+    {
+        "monedas": "Ouguiya de Mauritania",
+        " iso ": "MRO",
+        "símbolo": "UM",
+        "decimal": "85",
+        "hex": "77"
+    },
+    {
+        "monedas": "Rupia mauricia",
+        " iso ": "MUR",
+        "símbolo": "₨",
+        "decimal": "168",
+        "hex": "32"
+    },
+    {
+        "monedas": "Peso mexicano",
+        " iso ": "MXN",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Leu moldavo",
+        " iso ": "MDL",
+        "símbolo": "MDL",
+        "decimal": "77",
+        "hex": "68"
+    },
+    {
+        "monedas": "Tugrik mongol",
+        " iso ": "MNT",
+        "símbolo": "₮",
+        "decimal": "174",
+        "hex": "32"
+    },
+    {
+        "monedas": "Dirham marroquí",
+        " iso ": "MAD",
+        "símbolo": "د.م.",
+        "decimal": "47",
+        "hex": "646"
+    },
+    {
+        "monedas": "Kyat de Myanmar",
+        " iso ": "MMK",
+        "símbolo": "K",
+        "decimal": "75",
+        "hex": ""
+    },
+    {
+        "monedas": "N"
+    },
+    {
+        "monedas": "Dólar de Namibia",
+        " iso ": "NAD ",
+        "símbolo": "N$",
+        "decimal": "78",
+        "hex": "36"
+    },
+    {
+        "monedas": "Rupia nepalí",
+        " iso ": "NPR",
+        "símbolo": "₨",
+        "decimal": "168",
+        "hex": "32"
+    },
+    {
+        "monedas": "Guilder antillano",
+        " iso ": "ANG",
+        "símbolo": "NAƒ",
+        "decimal": "78",
+        "hex": "65"
+    },
+    {
+        "monedas": "Dólar neozelandés",
+        " iso ": "NZD",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Córdoba nicaragüense",
+        " iso ": "NIO",
+        "símbolo": "C$",
+        "decimal": "67",
+        "hex": "36"
+    },
+    {
+        "monedas": "Naira nigeriano",
+        " iso ": "NGN",
+        "símbolo": "₦",
+        "decimal": "166",
+        "hex": "32"
+    },
+    {
+        "monedas": "Won de Corea del Norte",
+        " iso ": "KPW",
+        "símbolo": "₩",
+        "decimal": "169",
+        "hex": "32"
+    },
+    {
+        "monedas": "Corona noruega",
+        " iso ": "NOK",
+        "símbolo": "kr",
+        "decimal": "107",
+        "hex": "114"
+    },
+    {
+        "monedas": "O"
+    },
+    {
+        "monedas": "Rial omaní",
+        " iso ": "OMR ",
+        "símbolo": "ر.ع.",
+        "decimal": "49",
+        "hex": "646"
+    },
+    {
+        "monedas": "P"
+    },
+    {
+        "monedas": "Franco CFP",
+        " iso ": "XPF ",
+        "símbolo": "F",
+        "decimal": "70",
+        "hex": ""
+    },
+    {
+        "monedas": "Rupia pakistaní",
+        " iso ": "PKR",
+        "símbolo": "Rs.",
+        "decimal": "82",
+        "hex": "115"
+    },
+    {
+        "monedas": "Balboa panameño",
+        " iso ": "PAB",
+        "símbolo": "B",
+        "decimal": "66",
+        "hex": ""
+    },
+    {
+        "monedas": "Kina de Papúa Nueva Guinea",
+        " iso ": "PGK",
+        "símbolo": "K",
+        "decimal": "75",
+        "hex": ""
+    },
+    {
+        "monedas": "Guaraní paraguayo",
+        " iso ": "PYG",
+        "símbolo": "",
+        "decimal": "",
+        "hex": ""
+    },
+    {
+        "monedas": "Nuevo Sol peruano",
+        " iso ": "PEN",
+        "símbolo": "S/.",
+        "decimal": "83",
+        "hex": "47"
+    },
+    {
+        "monedas": "Peso filipino",
+        " iso ": "PHP",
+        "símbolo": "₱",
+        "decimal": "177",
+        "hex": "32"
+    },
+    {
+        "monedas": "Zloty polaco",
+        " iso ": "PLN",
+        "símbolo": "zł",
+        "decimal": "122",
+        "hex": "66"
+    },
+    {
+        "monedas": "Q"
+    },
+    {
+        "monedas": "Riyal Qatarí",
+        " iso ": "QAR ",
+        "símbolo": "ر.ق",
+        "decimal": "49",
+        "hex": "646"
+    },
+    {
+        "monedas": "R"
+    },
+    {
+        "monedas": "Leu rumano",
+        " iso ": "RON ",
+        "símbolo": "L",
+        "decimal": "76",
+        "hex": ""
+    },
+    {
+        "monedas": "Rublo ruso",
+        " iso ": "RUB",
+        "símbolo": "руб",
+        "decimal": "64",
+        "hex": "467"
+    },
+    {
+        "monedas": "Franco ruandés",
+        " iso ": "RWF",
+        "símbolo": "RF",
+        "decimal": "82",
+        "hex": "70"
+    },
+    {
+        "monedas": "S"
+    },
+    {
+        "monedas": "Franco suizo",
+        " iso ": "CHF ",
+        "símbolo": "CHF",
+        "decimal": "67",
+        "hex": "72"
+    },
+    {
+        "monedas": "Tala de Samoa",
+        " iso ": "WST",
+        "símbolo": "WS$",
+        "decimal": "87",
+        "hex": "83"
+    },
+    {
+        "monedas": "Dobra de Santo Tomé",
+        " iso ": "STD",
+        "símbolo": "Db",
+        "decimal": "68",
+        "hex": "98"
+    },
+    {
+        "monedas": "Riyal saudí",
+        " iso ": "SAR",
+        "símbolo": "ر.س",
+        "decimal": "49",
+        "hex": "646"
+    },
+    {
+        "monedas": "Rupia de Seychelles",
+        " iso ": "SCR",
+        "símbolo": "SR",
+        "decimal": "83",
+        "hex": "82"
+    },
+    {
+        "monedas": "Leone de Sierra Leona",
+        " iso ": "SLL",
+        "símbolo": "Le",
+        "decimal": "76",
+        "hex": "101"
+    },
+    {
+        "monedas": "Dólar de Singapur",
+        " iso ": "SGD",
+        "símbolo": "S$",
+        "decimal": "83",
+        "hex": "36"
+    },
+    {
+        "monedas": "Corona eslovaca",
+        " iso ": "SKK",
+        "símbolo": "Sk",
+        "decimal": "83",
+        "hex": "107"
+    },
+    {
+        "monedas": "Dólar de las Islas Salomón",
+        " iso ": "SBD",
+        "símbolo": "SI$",
+        "decimal": "83",
+        "hex": "73"
+    },
+    {
+        "monedas": "Chelín somalí",
+        " iso ": "SOS",
+        "símbolo": "So.",
+        "decimal": "83",
+        "hex": "111"
+    },
+    {
+        "monedas": "Rand sudafricano",
+        " iso ": "ZAR",
+        "símbolo": "R",
+        "decimal": "82",
+        "hex": ""
+    },
+    {
+        "monedas": "Rupia de Sri Lanka",
+        " iso ": "LKR",
+        "símbolo": "ரூ",
+        "decimal": "176",
+        "hex": "11194"
+    },
+    {
+        "monedas": "Libra de Santa Helena",
+        " iso ": "SHP",
+        "símbolo": "£",
+        "decimal": "163",
+        "hex": ""
+    },
+    {
+        "monedas": "Libra sudanesa",
+        " iso ": "SDG",
+        "símbolo": "SDG",
+        "decimal": "83",
+        "hex": "68"
+    },
+    {
+        "monedas": "Lilangeni de Suazilandia",
+        " iso ": "SZL",
+        "símbolo": "SZL",
+        "decimal": "83",
+        "hex": "90"
+    },
+    {
+        "monedas": "Corona sueca",
+        " iso ": "SEK",
+        "símbolo": "kr",
+        "decimal": "107",
+        "hex": "114"
+    },
+    {
+        "monedas": "Libra siria",
+        " iso ": "SYP",
+        "símbolo": "SYP",
+        "decimal": "83",
+        "hex": "89"
+    },
+    {
+        "monedas": "T"
+    },
+    {
+        "monedas": "Baht tailandés ",
+        " iso ": "THB ",
+        "símbolo": "฿",
+        "decimal": "63",
+        "hex": "14"
+    },
+    {
+        "monedas": "Lira turca",
+        " iso ": "TRY",
+        "símbolo": "YTL",
+        "decimal": "89",
+        "hex": "84"
+    },
+    {
+        "monedas": "Dólar taiwanés",
+        " iso ": "TWD",
+        "símbolo": "NT$",
+        "decimal": "78",
+        "hex": "84"
+    },
+    {
+        "monedas": "Chelín tanzano",
+        " iso ": "TZS",
+        "símbolo": "x",
+        "decimal": "120",
+        "hex": ""
+    },
+    {
+        "monedas": "Paʻanga o dólar tongano",
+        " iso ": "TOP",
+        "símbolo": "T$",
+        "decimal": "84",
+        "hex": "36"
+    },
+    {
+        "monedas": "Dólar de Trinidad y Tobago",
+        " iso ": "TTD",
+        "símbolo": "TTD",
+        "decimal": "84",
+        "hex": "84"
+    },
+    {
+        "monedas": "Dinar tunecino",
+        " iso ": "TND",
+        "símbolo": "د.ت",
+        "decimal": "47",
+        "hex": "646"
+    },
+    {
+        "monedas": "U"
+    },
+    {
+        "monedas": "Dólar estadounidense",
+        " iso ": "USD ",
+        "símbolo": "$",
+        "decimal": "36",
+        "hex": ""
+    },
+    {
+        "monedas": "Dirham de Emiratos Arabes Unidos",
+        " iso ": "AED",
+        "símbolo": "د.إ",
+        "decimal": "47",
+        "hex": "646"
+    },
+    {
+        "monedas": "Chelín ugandés",
+        " iso ": "UGX",
+        "símbolo": "USh",
+        "decimal": "85",
+        "hex": "83"
+    },
+    {
+        "monedas": "Grivnia de Ucrania",
+        " iso ": "UAH",
+        "símbolo": "",
+        "decimal": "",
+        "hex": ""
+    },
+    {
+        "monedas": "Peso uruguayo",
+        " iso ": "UYU",
+        "símbolo": "UYU",
+        "decimal": "85",
+        "hex": "89"
+    },
+    {
+        "monedas": "Uzbekistán Sum",
+        " iso ": "UZS",
+        "símbolo": "UZS",
+        "decimal": "85",
+        "hex": "90"
+    },
+    {
+        "monedas": "V"
+    },
+    {
+        "monedas": "Vatu de Vanuatu",
+        " iso ": "VUV ",
+        "símbolo": "Vt",
+        "decimal": "86",
+        "hex": "116"
+    },
+    {
+        "monedas": "Dong de Vietnam",
+        " iso ": "VND",
+        "símbolo": "₫",
+        "decimal": "171",
+        "hex": "32"
+    },
+    {
+        "monedas": "Bolívar venezolano",
+        " iso ": "VEF",
+        "símbolo": "VEF",
+        "decimal": "86",
+        "hex": "69"
+    },
+    {
+        "monedas": "Y"
+    },
+    {
+        "monedas": "Rial yemení",
+        " iso ": "YER ",
+        "símbolo": "YER",
+        "decimal": "89",
+        "hex": "69"
+    },
+    {
+        "monedas": "Z"
+    },
+    {
+        "monedas": "Kwacha zambiano",
+        " iso ": "ZMK ",
+        "símbolo": "ZMK",
+        "decimal": "90",
+        "hex": "77"
+    }
+]
